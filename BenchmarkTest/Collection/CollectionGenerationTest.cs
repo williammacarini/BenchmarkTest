@@ -2,7 +2,7 @@
 using BenchmarkDotNet.Order;
 using System.Collections.ObjectModel;
 
-namespace BenchmarkTest
+namespace BenchmarkTest.Collection
 {
     [MemoryDiagnoser]
     [ShortRunJob]

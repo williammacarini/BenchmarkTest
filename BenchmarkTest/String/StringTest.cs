@@ -1,6 +1,6 @@
 ﻿using BenchmarkDotNet.Attributes;
 
-namespace BenchmarkTest
+namespace BenchmarkTest.String
 {
     [MemoryDiagnoser]
     [ShortRunJob]
